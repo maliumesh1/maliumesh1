@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://codepen.io/mali-umesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mali-umesh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/umesh-mali123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umesh-mali123" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/maliumesh01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="maliumesh01" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/maliumesh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="maliumesh01" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/um431gmp5/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="um431gmp5/profile" height="30" width="40" /></a>
 </p>
 
