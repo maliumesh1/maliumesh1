@@ -29,8 +29,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maliumesh1&show_icons=true&locale=en" alt="maliumesh1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maliumesh1&" alt="maliumesh1" /></p>
-
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=https%3A%2F%2Fgithub.com%2Fmaliumesh1&theme=dark" alt="GitHub Streak" /></a>
 
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
