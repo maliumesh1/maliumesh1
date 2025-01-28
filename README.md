@@ -43,5 +43,5 @@
   <img src="https://gssoc.girlscript.tech/badges/6.png?imwidth=96" width="100px" height="100px" />
   <img src="https://gssoc.girlscript.tech/badges/7.png?imwidth=96" width="100px" height="100px" />
   <img src="https://gssoc.girlscript.tech/badges/8.png?imwidth=96" width="100px" height="100px" />
-  <img src="https://gssoc.girlscript.tech/badges/9.png?imwidth=96" width="100px" height="100px" />
+<!--   <img src="https://gssoc.girlscript.tech/badges/9.png?imwidth=96" width="100px" height="100px" /> -->
 </div>
